@@ -20,21 +20,21 @@ source-code: https://github.com/ahva-ubc/song-dynasty-lanscape.git
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Song Landscape Paintings or Scrolls!
+title: Yu Wei's site
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: The best paintings you will see
+tagline: The best art you will see
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Put a good description here to impress your friends"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Rémi Castonguay
+author: Yu-Wei
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection)
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: early_modern_italian_art_and_culture
+metadata: songwomenandself-cultivation
 
 ##########
 # Site/Organization Branding
