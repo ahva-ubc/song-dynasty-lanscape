@@ -16,4 +16,4 @@ This exhibit talks about Mail Art but not Male Art!!
 
 - Image --> `{% raw %}{% include feature/image.html objectid="image2" width="75" %}{% endraw %}`
 
-{% include feature/image.html objectid=imagesampleid width="75" %}
+{% include feature/image.html objectid=image2 width="75" %}
